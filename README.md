@@ -40,3 +40,5 @@ To learn more about compiling Terraform and contributing suggested changes, refe
 To learn more about how we handle bug reports, refer to the bug triage guide.
 
 To learn how to contribute to the Terraform documentation in this repository, refer to the Terraform Documentation README.
+
+Source: https://github.com/hashicorp/terraform
