@@ -4,6 +4,7 @@
 * Documentation: https://www.terraform.io/docs/
 * Tutorials: HashiCorp's Learn Platform
 * Certification Exam: HashiCorp Certified: Terraform Associate
+*
 ![image](https://github.com/gvinothan/terraform/assets/43309736/66b0a350-9c9e-4b12-9fbf-0c6f80b140b1)
 
 Terraform
